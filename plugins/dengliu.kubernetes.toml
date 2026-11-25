@@ -24,3 +24,8 @@ sha256 = "4b8730e2fee2b612aa920fff9b01fbc1dad979fa794f760e2325b175e2fe805e"
 version = "0.3.12"
 package = "https://github.com/dengliu/openidea-kubernetes/releases/download/v0.3.12/dengliu.kubernetes-0.3.12.oiplugin"
 sha256 = "a5f99b1fc5bca22fd83b9540de66f346bd5e3bceb2f52b280428a241206f851a"
+
+[[versions]]
+version = "0.3.14"
+package = "https://github.com/dengliu/openidea-kubernetes/releases/download/v0.3.14/dengliu.kubernetes-0.3.14.oiplugin"
+sha256 = "7a1b0098fbb904d17ad2b66265b2ab223eb9e9a479e88bd4fea84dd480f7deb3"
